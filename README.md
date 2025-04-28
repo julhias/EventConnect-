@@ -18,42 +18,42 @@ Este repositório contém os principais artefatos gerados ao longo do desenvolvi
 ## 📝 Documento de Requisitos
 
 Arquivo contendo a descrição completa dos requisitos funcionais e não funcionais do sistema EventConnect.  
-📄 Local: `documentos/requisitos/documento_requisitos.pdf`
+ Local: `documentos/requisitos/documento_requisitos.pdf`
 
 ---
 
 ## 🎯 Diagramas de Casos de Uso
 
 Representação dos principais fluxos de interação entre os usuários e o sistema.  
-📄 Local: `documentos/diagramas/casos_de_uso/casos_de_uso.pdf`
+Local: `documentos/diagramas/diagramas casos de uso/diagrama de casos de uso EventConnect.pdf`
 
 ---
 
 ## 🏛️ Diagramas de Classes
 
 Modelo de estrutura do sistema, mostrando as classes, atributos, métodos e relacionamentos.  
-📄 Local: `documentos/diagramas/classes/diagrama_classes.png`
+ Local: `documentos/diagramas/diagrama de classes`
 
 ---
 
 ## 🔄 Diagramas de Estados
 
 Modelagem dos possíveis estados dos objetos principais dentro do sistema EventConnect.  
-📄 Local: `documentos/diagramas/estados/diagrama_estados.png`
+ Local: `documentos/diagramas/diagramas de estados/diagrama de estados.png`
 
 ---
 
 ## 🔗 Diagramas de Comunicação
 
 Fluxo de mensagens entre os objetos no sistema, para modelar interações específicas.  
-Local: `documentos/diagramas/comunicacao/diagrama_comunicacao.png`
+Local: `documentos/diagramas/diagramas de comunicacao/`
 
 ---
 
 ## 🎨 Protótipos de Telas
 
-Imagens das principais telas planejadas para a plataforma EventConnect.  
- Local: `design/prototipos/telas_estaticas.png`
+Imagens das principais telas planejadas para a plataforma EventConnect, divididas em perfis de usuarios (Contratantes, Prestadores de Serviço) e telas gerais.  
+ Local: `documentos/design/prototipos/`
 
 ---
 
