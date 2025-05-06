@@ -67,4 +67,5 @@ Clique no link abaixo para visualizar a versão interativa dos protótipos:
 
 ## 👥 Autores
 
+- [Bruna Matias de Lima](https://github.com/BrunaMatias)
 
